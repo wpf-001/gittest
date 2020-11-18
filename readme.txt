@@ -5,3 +5,4 @@ Git tracks changesa of files.
 My boss still prefers SVN.
 Cresting a new branch is quick and simple.
 Switched to a new branch 'dev'.
+Stash 2.
